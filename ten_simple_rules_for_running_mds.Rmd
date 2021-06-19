@@ -1,0 +1,67 @@
+---
+title: "Ten simple rules for running a Master’s of Data Science program"
+author: 
+- Micheal A. Gelbart
+- Tiffany A. Timbers
+date: "`r Sys.Date()`"
+documentclass: paper
+bibliography: [references.bib]
+output: 
+  bookdown::pdf_document2:
+    toc: false
+    number_sections: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message=FALSE, ft.align = "left")
+library(knitr)
+```
+
+## Abstract
+The University of British Columba (UBC) Master of Data Science (MDS) program 
+is a 10-month professional master’s program in Data Science. 
+The MDS program was launched in September 2016 and is offered 
+by a collaboration between the UBC Department of Computer Science 
+and Department of Statistics.
+It involves 24 one-month courses followed by a two-month Capstone Project. 
+It has grown from 22 students with just under 100 applicants at its onset, 
+to 120 students with over 2000 applicants in its most recent application cycle. 
+In this article we document some of the things 
+we think have been key to the success of launching and running this successful program.
+
+## Introduction
+- describe program and its history (pull from blog)
+- document its measurable success
+  - student body growth
+  - admissions applications growth
+  - spin-off programs at UBC (MDS-O, MDS-CL)
+- document some testimonials
+  - can we get these from the marketing team?
+
+## Ten simple rules
+- we will flesh these out in the sprint
+
+### Rule 1: TBD 
+
+### Rule 2: TBD 
+
+### Rule 3: TBD 
+
+### Rule 4: TBD 
+
+### Rule 5: TBD 
+
+### Rule 6: TBD 
+
+### Rule 7: TBD 
+
+### Rule 8: TBD 
+
+### Rule 9: TBD 
+
+### Rule 10: TBD 
+
+## Conclusion
+- TBD
+
+## References
