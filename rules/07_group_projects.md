@@ -1,0 +1,9 @@
+Include several group projects in your Data Science program. Group work is important, and project work is important; combining them is often particularly effective. 
+
+Why group work? This is important because Data Science is an inherently cross-disciplinary role. Data Scientists often must interact with other data scientists, domain experts, data engineers, software engineers, management, and other stakeholders. Including group work in a Data Science program both trains students for collaborative work, and also signals to students that collaboration is valued by the program and necessary for success. 
+
+Why projects? Short homework assignments are very effective at reinforcing specific concepts, but they are not representative of real-world Data Science. By "projects" we mean assignments that are both more open-ended, but also longer in duration than traditional homework assignments. For example, our program includes four 4-week projects (completed part-time at the same time as other courses) and one 8-week Capstone project (completed full-time). Projects allow students to practice the critical meta-skills needed by a Data Scientist, such as choosing which method or tool to apply given a problem, or when to consider a project "done".
+
+Why group projects? Although it doesn't have to be this way, in our program all projects are group work and almost all group work is projects. Projects are generally challenging and projects with a larger, more realistic scope can be assigned to groups than individually. Furthermore, providing grades and feedback to projects is very important but very time-intensive -- grouping students reduces the total number of projects that need to be assessed by the teaching team.
+
+Additional information on these projects can be found in our blog post, [Project courses in MDS](https://ubc-mds.github.io/2019-08-22-project-courses/).
