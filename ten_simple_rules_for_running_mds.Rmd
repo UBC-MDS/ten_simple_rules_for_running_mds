@@ -79,8 +79,18 @@ and a process for reporting a code of conduct violation.
 Importantly, providing contact details for a secondary reporting person is 
 important, in case the person listed I as the reporting person
 (unintentionally) violate the code of conduct. 
+- how we enforce the code of conduct - publicly but respectfully
 
-...
+Other ways we do this in MDS:
+- careful choice of data sets (e.g., not using iris, calling out limitations
+on how data has been collected - sex and gender are not binary, using diverse 
+data sets that diverse people can identify with)
+- learn students names
+- announce when we make mistakes, **show our human-side**
+
+- D&I workshops/Ally skills workshops - professional training
+
+- team work document
 
 ### Rule 9: Spend time with the students (contact hours, student-teacher ratios) 
 
