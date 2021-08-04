@@ -9,3 +9,5 @@ the original idea was
 > 1. Engage (at least) statisticians and computer scientists - Think broadly about the definition of data science & Feed students their vegetables
 
 However, I feel like those are two separate things and I had trouble combining them. It would nice to mention stats/cs somewhere though, if possible.
+
+Update: I will try to put this in Rule 3
