@@ -5,15 +5,44 @@ with its own distinct emphasis, applications, workflows, tools, and culture.
 This means that building a data science program likely means that new courses
 will need to be built from scratch. 
 Selecting a subset of pre-existing statistics and computer science courses, 
-and to create a data science program, will create one in name only,
+to create a data science program, will create one in name only,
 and will in reality be a combined statistics and computer science degree. 
-Such a program will lack the distinct data science emphasis, applications, 
-workflows, tools, and culture.
+Such a program will lack the distinct aspects of data science that have 
+evolved from it's parent fields. 
+In our program we created all of the courses from scratch.
+This is not to say that we took nothing 
+from courses in the parent fields of data science.
+A good deal was taken, however, much of the emphasis, workflows and tools 
+needed to be changed.
+We also needed to add new topics that have arisen from the field of data science,
+which are absent from the parent fields (e.g., FILL IN ...).
 
-
-
-
-- Data science is an applied field, and most students who graduate a data science program move on to working outside academia
-  - real data sets
-- Data science is a fast evolving field
-  - teach current/authentic data science concepts
+Data science is distinct from it's parent fields is that 
+data science is primarily an applied field, 
+and most students who graduate from a data science program 
+move on to working outside academia.
+As such, when teaching data science concepts, methods and tools, 
+it is critical to teach them in the context of answering real world
+questions using rich, real data sets. 
+An additional consequence of students primarily turning into applied,
+data science practitioners upon graduation is that the curriculum needs to be
+kept modern and current to help them be successful on the job market.
+At the time of writing this (and likely for many years hereafter), 
+continual effort is needed to evolve data science educational materials
+to keep up with the fast evolving pace of the field. 
+In our program, we build this expectation into the culture of our teaching team, 
+as well as budget time and money for this.
+Culturally, we assign a certain number of courses as targets for redevelopment
+when it becomes apparent that the field has changed. 
+We also normalize incorporation of new tools methods in our courses, 
+by doing this regularly.
+When a course needs redevelopment to modernize it 
+with what is happening in the field, 
+we assign the instructor extra teaching credit to provide them the prep time 
+to do this. 
+We also provide instructors funding to attend conferences related to data science,
+and time to contribute to open source data science projects.
+Finally, we also listen to our alumni and our academic advisory team 
+(comprised of academic, government and industry representatives) 
+through surveys, and meetings to keep connected with data science practitioners 
+so that we are aware of when the field is moving, and where it is moving too.
