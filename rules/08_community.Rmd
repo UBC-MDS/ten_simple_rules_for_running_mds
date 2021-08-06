@@ -1,0 +1,33 @@
+Having a respectful and supportive community 
+for learners is fundamental for leveling the playing field 
+across a group of heterogeneous learners - 
+which is essentially any group of learners.
+Learner heterogeneity may be particularly higher in a Master of Data Science 
+program given that students come from a wide variety of academic backgrounds.
+In a classroom where a respectful and supportive community is not built, 
+only some learners who have certain privileges are likely to succeed. 
+In such an unsafe environment, 
+many learners lacking these certain privileges will become demotivated, 
+frustrated, and feel alone. 
+Their learning will suffer because of this, 
+no matter how well the content is delivered by the teaching team. 
+
+One way to scaffold a respectful and supportive community 
+is to use and enforce a code of conduct 
+that clearly outlines what behaviors are not acceptable in our learning spaces, 
+and a process for reporting a code of conduct violation. 
+Importantly, providing contact details for a secondary reporting person is 
+important, in case the person listed I as the reporting person
+(unintentionally) violate the code of conduct. 
+- how we enforce the code of conduct - publicly but respectfully
+
+Other ways we do this in MDS:
+- careful choice of data sets (e.g., not using iris, calling out limitations
+on how data has been collected - sex and gender are not binary, using diverse 
+data sets that diverse people can identify with)
+- learn students names
+- announce when we make mistakes, **show our human-side**
+
+- D&I workshops/Ally skills workshops - professional training
+
+- team work document
