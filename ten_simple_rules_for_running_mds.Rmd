@@ -46,7 +46,7 @@ we think have been key to the success of building this successful program.
 ```{r rule1, child="rules/01_breadth_vegetables.Rmd"}
 ```
 
-### Rule 2: teach current/authentic data science concepts, methods and tools & build courses from scratch & use real data sets
+### Rule 2: teach current data science concepts, methods and tools
 
 ```{r rule2, child="rules/02_be_real_stay_current.Rmd"}
 ```

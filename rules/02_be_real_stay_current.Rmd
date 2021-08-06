@@ -1,0 +1,19 @@
+Teach current data science concepts, methods and tools.
+Data science has its roots in computer science and statistics, 
+but modern data science can be viewed as its own interdisciplinary field 
+with its own distinct emphasis, applications, workflows, tools, and culture.
+This means that building a data science program likely means that new courses
+will need to be built from scratch. 
+Selecting a subset of pre-existing statistics and computer science courses, 
+and to create a data science program, will create one in name only,
+and will in reality be a combined statistics and computer science degree. 
+Such a program will lack the distinct data science emphasis, applications, 
+workflows, tools, and culture.
+
+
+
+
+- Data science is an applied field, and most students who graduate a data science program move on to working outside academia
+  - real data sets
+- Data science is a fast evolving field
+  - teach current/authentic data science concepts
