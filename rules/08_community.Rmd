@@ -1,7 +1,8 @@
-Having a respectful and supportive community 
-for learners is fundamental for leveling the playing field 
-across a group of heterogeneous learners - 
-which is essentially any group of learners.
+Put significant effort into creating a respectful and supportive community. 
+Any group of learners has some level of heterogeneity,
+and establishing a respectful and supportive community for learners 
+is fundamental for levelling the playing field 
+across a group of heterogeneous learners.
 Learner heterogeneity may be particularly higher in a Master of Data Science 
 program given that students come from a wide variety of academic backgrounds.
 In a classroom where a respectful and supportive community is not built, 
@@ -17,17 +18,48 @@ is to use and enforce a code of conduct
 that clearly outlines what behaviors are not acceptable in our learning spaces, 
 and a process for reporting a code of conduct violation. 
 Importantly, providing contact details for a secondary reporting person is 
-important, in case the person listed I as the reporting person
-(unintentionally) violate the code of conduct. 
-- how we enforce the code of conduct - publicly but respectfully
+important, in case the person listed as the reporting person
+(unintentionally) violates the code of conduct. 
+Furthermore, when a code of conduct violation is reported, 
+it is critical that the violation be addressed. 
+Upholding a code of conduct can be challenging, 
+and sometimes requires difficult and uncomfortable conversations.
+However, without addressing violations, 
+the Code of Conduct merely becomes a facade.
 
-Other ways we do this in MDS:
-- careful choice of data sets (e.g., not using iris, calling out limitations
-on how data has been collected - sex and gender are not binary, using diverse 
-data sets that diverse people can identify with)
-- learn students names
-- announce when we make mistakes, **show our human-side**
+Another way to scaffold a respectful and supportive community in the data 
+science classroom is through careful choice of data sets. 
+Consciously avoiding the use of data sets 
+that may cause negative emotional reactions
+in learners is creates a space where all learners can focus on the data science
+concept, tool, workflow being taught in the lesson, without having to 
+suppress or cope with negative emotions. 
+For example, avoid data sets that involve violent and/or sex crimes,
+body weight, gender coded as a binary variable and eugenics. 
+Yes, these topics can be important to research, 
+however most of the time they are not needed in data science classroom 
+when teaching concepts such as classification, version control, et cetera.
+If such as data set cannot be avoided for some reason, 
+it is better to call awareness to it's challenges or short-comings 
+and address why they are so.
 
-- D&I workshops/Ally skills workshops - professional training
+There is one exception to this suggestion to avoid data sets 
+that cause negative emotional reactions, 
+which is when teaching data science ethics, we often need to use real-world
+case studies to motivate and engage students in learning about how
+to carryout out data science in an honest, ethical and fair way.
+However, even when teaching data science ethics, 
+selection and presentation of these cases need care and effort.
+Choosing the case that will elicit the minimally needed 
+amount of negative emotions to motivate the topic, 
+as well as providing a rich description of the context of the case,
+should be the chosen course of action.
 
-- team work document
+Another way is to engage students in formal/professional training
+on how to work and communicate with others in a respectful manner.
+Many universities have an equity and inclusion office that runs training courses,
+and where those do not exist, there are independent organizations that 
+run such courses (e.g., Ally Skills Workshop by Framework Consulting).
+We recommend offering these courses to students during orientation days/weeks 
+before the beginning of the program, when enthusiasm for the program is high, 
+the culture of your cohort is being formed.
