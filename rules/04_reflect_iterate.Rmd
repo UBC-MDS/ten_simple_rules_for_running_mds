@@ -1,0 +1,80 @@
+Create space and time for reflection on course and program effectiveness, 
+and when weaknesses are identified, act on improving them. 
+Just like a data science project, iteration is critical process for improvement.
+It is naive to think that a data science course or program would be 
+optimally effective in its first instance. 
+
+> "No lesson withstands first contact with learners." 
+>     -- Greg Wilson
+
+Furthermore, given how the field rapidly evolves and changes, 
+iteration might be required even after a course or program 
+has settled into a period of effectiveness. 
+Reflection is critical for identifying when iteration is needed, 
+and then willingness to act is critical to implement the necessary changes.
+In the UBC MDS program, we have three main avenues for collecting feedback
+and reflecting on what course and program improvements we might need to make:
+
+1. student-elected student representatives
+
+2. student surveys
+
+3. academic retreats
+
+One way we obtain feedback is through student-elected student representatives. 
+During each course block in MDS, the student body is asked to elect two 
+student block representatives. 
+The role of these student representatives is to facilitate and encourage
+communication and feedback from students to the teaching team in a more informal
+and student-driven way. 
+The student representatives are encouraged to bring forward any issues/concerns 
+the student body has with the MDS program or courses to the teaching team 
+if/as they arise through a private messaging channel 
+on our Slack course discussion forum, 
+and each block they are invited to a meeting with the MDS teaching 
+and operations team (including the program directors) 
+midway through the block. 
+Most student block representatives design and carryout their own surveys ahead
+of these block meetings to gather feedback from the wider student body to 
+bring to the attention of the teaching team. 
+The feedback received from student block representatives in MDS was extremely 
+useful during the first several years of the program, when we launched 24 newly
+developed one-credit courses. Through this feedback we quickly learned when
+courses were presenting material at the wrong pace, when workloads exceeded
+student capacity given the deadlines, what topics students found most challenging, 
+as well as what pedagogies were most and least effective from the student 
+perspectives. 
+
+Finally, we send out surveys to our students upon graduation and at several 
+other time periods post graduation (GET CORRECT TIMES AND INSERT HERE).
+These surveys provide a different perspective than the feedback from the 
+student-elected block representatives, as these surveys are performed at the 
+end of the program, and while students are (ideally) working in the field of 
+data science. The survey feedback has been most useful in identifying
+areas where we initially did not place enough emphasis
+as well as new/arising topics in the field of data science.
+
+Twice a year, MDS holds a half-day academic retreat where the instructors 
+who taught courses over the previous term meet and reflect on what went well
+with their courses, what could be improved. 
+Time for discussion around what could be improved, 
+and how that cuts across courses to make a more cohesive program is emphasized.
+Through these retreats we have identified missing or ill-assumed prerequisite 
+knowledge, course ordering issues, pedagogical inconsistencies and more.
+Course instructors have valuable insight into what is taught and how it is 
+delivered, that is distinct and complementary to that of students. 
+These academic retreats also help build relationships and community within
+our course instructors.
+At the end of each retreat, we build an actionable list of action items to 
+be worked on in individual courses, and at the program-level.
+
+Finally, we create time/space in our teaching team's workload to act on 
+the identified needs for course and program redevelopment.
+Currently, we identify 2-3 courses that are in need of iteration each year,
+and during our teaching load assignments, give extra time to the instructors 
+assigned to teaching those courses. 
+This means they teach less courses that year. 
+We also make sure to do this well before the academic year starts so that the 
+instructor can find reasonable time to do this important work.
+It is a cost for the program, in terms of resources, but it pays off in dividends 
+in regards to the benefits it brings for student learning. 
