@@ -1,6 +1,23 @@
-Think broadly about how you define data science, and feed students a healthy diet of data science dishes, not just dessert. What do we mean with this metaphor? Some students may enter your data science program primarily excited about the latest hot topic, such as deep learning. Others may have broader interests, but still focus on the model-building aspect of data science. Every student brings their own preconceptions about data science. As we know, data science is so much more than training models. In our program we focus on a [broad range of topics](https://ubc-mds.github.io/descriptions/), based on input from faculty members and industry advisors: topics include ethics, data science communication, data visualization, data cleaning, statistical inference, experimental design, reproducible workflows, collaborative software development, and more. 
+Think broadly about how you define data science, and feed students a healthy diet of data science dishes, 
+not just dessert. What do we mean with this metaphor? 
+Some students may enter your data science program primarily excited about the latest hot topic, such as deep learning. 
+Others may have broader interests, but still focus on the model-building aspect of data science. 
+Every student brings their own preconceptions about data science. As we know, 
+data science is so much more than training models. 
+In our program we focus on a [broad range of topics](https://ubc-mds.github.io/descriptions/), 
+based on input from faculty members and industry advisors: topics include ethics, data science communication, 
+data visualization, data cleaning, statistical inference, experimental design, 
+reproducible workflows, collaborative software development, and more. 
 
-Our students sometimes complain that they want dessert (e.g. deep learning) before dinner and that they don't want their vegetables (e.g. writing tests and documentation). That said, when our students work with external organizations during our Capstone project, we find our Capstone partners regularly praising the students' code quality, comprehensive documentation, reproducible analysis pipeline in a Docker container, etc. From qualitative results in our alumni surveys, we also find that our alumni appreciate these skills in hindsight as they move forward in their careers. Like vegetables, setting up comprehensive documentation might not be that fun in the moment; it is the type of investment that one can appreciate far into the future, when one revisits a year-old codebase and finds that the project is clearly documented and explained.
+Our students sometimes complain that they want dessert (e.g. deep learning) before dinner 
+and that they don't want their vegetables (e.g. writing tests and documentation). 
+That said, when our students work with external organizations during our Capstone project, 
+we find our Capstone partners regularly praising the students' code quality, comprehensive documentation, 
+reproducible analysis pipeline in a Docker container, etc. From qualitative results in our alumni surveys, 
+we also find that our alumni appreciate these skills in hindsight as they move forward in their careers. 
+Like vegetables, setting up comprehensive documentation might not be that fun in the moment; 
+it is the type of investment that one can appreciate far into the future, 
+when one revisits a year-old codebase and finds that the project is clearly documented and explained.
 
 ## NOTE: 
 
