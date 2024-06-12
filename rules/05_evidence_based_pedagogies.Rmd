@@ -6,7 +6,14 @@ there was not yet a rich literature with evidence on how to teach data science.
 Instead, we borrowed from the pedagogical literature from related fields,
 such as statistics and computer science.
 Many of the pedagogies we have employed fall under the umbrella of active learning.
-Active learning is ... and is thought to ... (ref).
+Active learning is almost the opposite of traditional university lectures where students passively watch, 
+listen and sometimes take notes.
+It is an approach to teaching and learning where students are consistently and frequently
+engaged with their course studies by doing things 
+(e.g., discussing with classmates, working on solving problems, etc) (Bonwell & Eison, 1991).
+There is evidence that student performance, 
+at least on summative assessments,
+can be increased through active learning [@freeman2014active].
 
 Next discuss these common active learning strategies by describing and citing an original paper,
 and giving a concrete example of how we use them in MDS. 
