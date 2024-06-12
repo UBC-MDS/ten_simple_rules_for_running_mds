@@ -1,0 +1,17 @@
+The field of data science arose in part to help people make descisions based on evidence.
+Thus, it follows that when teaching data science, 
+evidence should also be used to select effective pedagogies.
+In the beginning of our MDS program in 2016, 
+there was not yet a rich literature with evidence on how to teach data science.
+Instead, we borrowed from the pedagogical literature from related fields,
+such as statistics and computer science.
+Many of the pedagogies we have employed fall under the umbrella of active learning.
+Active learning is ... and is thought to ... (ref).
+
+Next discuss these common active learning strategies by describing and citing an original paper,
+and giving a concrete example of how we use them in MDS. 
+- live coding & demonstrations
+- flipped classroom
+- in-class worksheets
+- iClicker
+- group projects (don't talk about this too much in detail as we have an whole other section on it)
