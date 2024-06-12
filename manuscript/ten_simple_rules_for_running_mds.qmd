@@ -3,12 +3,10 @@ title: "Ten simple rules for building Master’s of Data Science program"
 author: 
 - Tiffany A. Timbers
 - Michael A. Gelbart
-
-date: "`r Sys.Date()`"
-documentclass: paper
-bibliography: [references.bib]
-output: 
-  bookdown::pdf_document2:
+date: Sys.Date()
+bibliography: references.bib
+format: 
+  pdf:
     toc: false
     number_sections: false
 ---
@@ -43,53 +41,43 @@ we think have been key to the success of building this successful program.
 
 ### Rule 1: Engage (at least) statisticians and computer scientists - Think broadly about the definition of data science & Feed students their vegetables
 
-```{r rule1, child="rules/01_breadth_vegetables.Rmd"}
-```
+{{< include _01_breadth_vegetables.qmd >}}
 
 ### Rule 2: teach current data science concepts, methods and tools
 
-```{r rule2, child="rules/02_be_real_stay_current.Rmd"}
-```
+{{< include _02_be_real_stay_current.qmd >}}
 
 ### Rule 3: create a teaching team that is connected to each other and the entire curriculum & break down the walls between courses
 
-```{r rule3, child="rules/03_teaching_team_walls.Rmd"}
-```
+{{< include _03_teaching_team_walls.qmd >}}
 
 ### Rule 4: reflect and iterate (time for redevelopment, academic retreats, not being scared of paperwork, capstone)
 
-```{r rule4, child="rules/04_reflect_iterate.Rmd"}
-```
+{{< include _04_reflect_iterate.qmd >}}
 
 ### Rule 5: use evidence-based pedagogies for learning data science (live coding, flipped classroom, experiential learning)
 
-```{r rule5, child="rules/05_evidence_based_pedagogies.Rmd"}
-```
+{{< include _05_evidence_based_pedagogies.qmd >}}
 
 ### Rule 6: use (and create?) open educational resources
 
-```{r rule6, child="rules/06_oers.Rmd"}
-```
+{{< include _06_oers.qmd >}}
 
 ### Rule 7: Include meaningful group projects (group + projects = do together)
 
-```{r rule7, child="rules/07_group_projects.Rmd"}
-```
+{{< include _07_group_projects.qmd >}}
 
 ### Rule 8: Scaffold a respectful and supportive community for learners 
 
-```{r rule8, child="rules/08_community.Rmd"}
-```
+{{< include _08_community.qmd >}}
 
 ### Rule 9: Spend time with the students (contact hours, student-teacher ratios) 
 
-```{r rule9, child="rules/09_spend_time.Rmd"}
-```
+{{< include _09_spend_time.qmd >}}
 
 ### Rule 10: Engage your alumni
 
-```{r rule10, child="rules/10_alumni.Rmd"}
-```
+{{< include _10_alumni.qmd >}}
 
 ## Conclusion
 - TBD
